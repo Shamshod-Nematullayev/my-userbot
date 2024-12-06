@@ -1,0 +1,16 @@
+{
+  "name": "my-userbot",
+  "version": "1.0.0",
+  "description": "test to create first userbot on telegram",
+  "main": "index.js",
+  "author": "Shamshod Ne'matullayev",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "@mtproto/core": "^6.3.0",
+    "dotenv": "^16.4.7",
+    "fs-extra": "^11.2.0"
+  }
+}
